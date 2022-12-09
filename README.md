@@ -1,0 +1,1 @@
+# foundry-module-template
